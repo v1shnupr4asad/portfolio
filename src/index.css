@@ -1,0 +1,7 @@
+/* tailwindcss directives */
+html {
+  scroll-behavior: smooth;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
